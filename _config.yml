@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "샵온"
+title                    : "바이어즈네스트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "shopon"
-description              : "좋은 상품정보"
-url                      : "https://mmistakes.github.io"
+name                     : "buyersnest"
+description              : "구매자를 위한 안식처"
+url                      : "https://buyersnest.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  : 
+naver_site_verification  : "debb27d065b4dbf9634625e8c035b9ad0983e430"
 yandex_site_verification :
 baidu_site_verification  :
 
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "샵온"
+  name             : "바이어즈네스트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "상품의 상세정보 및 리뷰를보고 구매하세요"
+  bio              : "구매자 중심의 진솔한 리뷰와 가이드를 제공합니다. 올바른 선택을 위한 정보의 둥지"
   location         : "Somewhere"
   email            :
   links:
